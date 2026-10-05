@@ -1,0 +1,8 @@
+{
+  "name": "miy004_board",
+  "version": "0.1.0",
+  "description": "MIY004 pin map, clocks (HSI48 + CRS) and interrupt handlers",
+  "build": {
+    "libArchive": false
+  }
+}

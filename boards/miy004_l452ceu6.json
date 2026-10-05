@@ -1,0 +1,32 @@
+{
+  "build": {
+    "core": "stm32",
+    "cpu": "cortex-m4",
+    "extra_flags": "-DSTM32L4 -DSTM32L452xx",
+    "f_cpu": "48000000L",
+    "mcu": "stm32l452ceu6",
+    "product_line": "STM32L452xx"
+  },
+  "debug": {
+    "jlink_device": "STM32L452CE",
+    "openocd_target": "stm32l4x",
+    "svd_path": "STM32L4x2.svd"
+  },
+  "frameworks": [
+    "cmsis",
+    "stm32cube"
+  ],
+  "name": "MIY004 (STM32L452CEU6)",
+  "upload": {
+    "maximum_ram_size": 163840,
+    "maximum_size": 524288,
+    "protocol": "stlink",
+    "protocols": [
+      "stlink",
+      "jlink",
+      "dfu"
+    ]
+  },
+  "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l452ce.html",
+  "vendor": "ST"
+}

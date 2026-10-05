@@ -1,0 +1,5 @@
+{
+  "name": "miy004_hall",
+  "version": "0.1.0",
+  "description": "DRV5011 rate latch and DRV5032FB wake switch"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "miy004_flash",
+  "version": "0.1.0",
+  "description": "S25FL256L SPI-NOR driver (SPI2)"
+}

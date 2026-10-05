@@ -1,0 +1,5 @@
+{
+  "name": "miy004_envelope",
+  "version": "0.1.0",
+  "description": "Spin-rate to volume envelope, fast attack / slow decay (hardware-free)"
+}
